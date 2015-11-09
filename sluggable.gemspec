@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "sluggable_jason_nov"
-  s.version = "0.0.0"
+  s.version = "0.0.1"
   s.date = "2015-11-08"
   s.summary = "A gem for creating url slugs"
   s.description = "A gem that adds sluggable functionality to your models."

@@ -1,4 +1,4 @@
-module Sluggable
+module SluggableJasonNov
   extend ActiveSupport::Concern
 
   included do
